@@ -1,0 +1,12 @@
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/bin/Debug/net6.0/Bookstore.Core.deps.json
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/bin/Debug/net6.0/Bookstore.Core.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/bin/Debug/net6.0/Bookstore.Core.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.AssemblyInfo.cs
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/refint/Bookstore.Core.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/Bookstore.Core.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Core/obj/Debug/net6.0/ref/Bookstore.Core.dll

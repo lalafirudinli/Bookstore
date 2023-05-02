@@ -1,0 +1,17 @@
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Service.deps.json
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Service.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Service.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Core.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Data.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Data.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/bin/Debug/net6.0/Bookstore.Core.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.AssemblyInfo.cs
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.csproj.CopyComplete
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/refint/Bookstore.Service.dll
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/Bookstore.Service.pdb
+/Users/macbookpro/Projects/Bookstore/Bookstore.Service/obj/Debug/net6.0/ref/Bookstore.Service.dll

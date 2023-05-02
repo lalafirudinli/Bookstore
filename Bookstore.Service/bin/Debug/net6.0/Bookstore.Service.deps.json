@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bookstore.Service/1.0.0": {
+        "dependencies": {
+          "Bookstore.Data": "1.0.0"
+        },
+        "runtime": {
+          "Bookstore.Service.dll": {}
+        }
+      },
+      "Bookstore.Core/1.0.0": {
+        "runtime": {
+          "Bookstore.Core.dll": {}
+        }
+      },
+      "Bookstore.Data/1.0.0": {
+        "dependencies": {
+          "Bookstore.Core": "1.0.0"
+        },
+        "runtime": {
+          "Bookstore.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bookstore.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bookstore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bookstore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
